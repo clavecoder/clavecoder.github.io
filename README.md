@@ -4,6 +4,6 @@
 - Twitter [@clavecoder](https://twitter.com/clavecoder)
 - GitHub [clavecoder](https://github.com/clavecoder)
 
-## Resumes
+## Resume
 
 - [Enterprise Application Architect](./resume/KENBRUBAKER.md)
