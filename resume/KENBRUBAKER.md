@@ -71,5 +71,5 @@ Graduated May 1990
 
 > Certified ScrumMaster (CSM)
 
-Scrum Alliance
-Date Received: March 2013
+Scrum Alliance<br>
+March 2013 - March 2015
