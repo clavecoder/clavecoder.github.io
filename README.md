@@ -2,7 +2,7 @@
 
 - Blog [@kenbrubaker](https://medium.com/@kenbrubaker)
 - Twitter [@clavecoder](https://twitter.com/clavecoder)
-- GitHub [clavecoder](https://github.com/clavecoder)
+- GitHub @clavecoder
 
 ## Resume
 
@@ -14,4 +14,4 @@
 
 ## Projects
 
-- **⌗ Jali**  [http://jali-ms.io/](http://jali-ms.io/)
+- **⌗ Jali** [http://jali-ms.io/](http://jali-ms.io/)
