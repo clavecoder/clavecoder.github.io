@@ -1,6 +1,6 @@
 *[Home](/)*
 
-# Resume
+# Enterprise Application Architect
 
 ![Profile Picture](/AvatarSmall.jpeg)
 
