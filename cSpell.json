@@ -9,14 +9,17 @@
         "brubaker",
         "docx",
         "ecma",
+        "fiserv",
         "kenbrubaker",
         "href",
+        "kubernetes",
         "lifecycle",
         "markdownlint",
+        "mesos",
         "microservice",
         "prototyped",
-        "Voya",
-        "Fiserv"
+        "rearchitect",
+        "voya"
     ],
     // flagWords - list of words to be always considered incorrect
     // This is useful for offensive words and common spelling errors.
