@@ -26,7 +26,7 @@ nearly 27 year career.
 
 <!-- markdownlint-enable line-length -->
 
-## Experience
+## Experience 
 
 - Implemented and deployed service architecture for leading Automotive
   CRM SaaS provider based on microservice principles I developed in
