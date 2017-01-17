@@ -63,11 +63,17 @@ and directed and participated in important software development efforts.
   <dt>eLead: Contract/FTE, March 2015 – Present (Automotive CRM)</dt>
   <dd><b>C# Architect</b>
       <ul>
-        <li>Thing one</li>
-        <li>Thing two</li>
-      </ul></dd>
+        <li>Supported the AirWatch scheduler service in a very large SaaS environment.</li>
+        <li>Mentored staff on Unit Testing techniques and Single Page Application Web technologies</li>
+      </ul>
+  </dd>
   <dt>AirWatch: FTE, November 2014 – March 2015 (Enterprise Mobility Management)</dt>
-  <dd></dd>
+  <dd><b>C# Architect</b>
+      <ul>
+        <li>Supported the AirWatch scheduler service in a very large SaaS environment.</li>
+        <li>Mentored staff on Unit Testing techniques and Single Page Application Web technologies</li>
+      </ul>
+  </dd>
   <dt>Voya Investment Management: Contract/FTE, May 2009 – November 2014 (Financial Services)</dt>
   <dd></dd>
   <dt>Kurt Salmon Associates: Contract, August 2007 – September 2008 (Management Consulting)</dt>
