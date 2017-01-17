@@ -28,10 +28,14 @@ nearly 27 year career.
 
 ## Experience
 
+- Implemented and deployed service architecture for leading Automotive
+  CRM SaaS provider based on microservice principles I developed in
+  conjunction with the technical leadership team and reference
+  architecture requirements developed from those principles.
 - Enterprise Application Architect and Microsoft liaison for 50,000
   person global Financial Services firm during their migration to an
   external data center
-- Designed .NET Enterprise Software Framework and Salary Adminstration
+- Designed .NET Enterprise Software Framework and Salary Administration
   software for 70,000 person media conglomerate
 - Sole Application Architect for leading Investment Banking firm,
   having designed an investment trading platform and several full stack
@@ -47,7 +51,7 @@ nearly 27 year career.
   - Worked in senior architect and developer positions on large products
     for leading firms in the Enterprise Mobility Management, Credit
     Union, Financial Services, Healthcare, Supply Chain Management,
-    Defined Benefits Adminstration, and Automotive industries
+    Defined Benefits Administration, and Automotive industries
 
 ## Technical Expertise
 
