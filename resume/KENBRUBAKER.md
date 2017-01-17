@@ -19,8 +19,8 @@ nearly 27 year career.
 
 <p align="center">
 <i><a href="./kenbrubaker.pdf" target="_blank">PDF</a> —
-<a href="./kenbrubaker.docx" target="_blank">Word</a> —
-<a href="./kenbrubaker.txt" target="_blank">TXT</a> —
+<a href="./kenbrubaker.docx" target="_blank">Word</a> <!-- —
+<a href="./kenbrubaker.txt" target="_blank">TXT</a> --> —
 <a href="https://github.com/clavecoder/clavecoder.github.io/raw/master/resume/KENBRUBAKER.md" target="_blank">Markdown</a></i>
 </p>
 
@@ -30,18 +30,18 @@ nearly 27 year career.
 
 - Enterprise Application Architect and Microsoft liaison for 50,000
   person global Financial Services firm during their migration to an
-  external data center.
+  external data center
 - Designed .NET Enterprise Software Framework and Salary Adminstration
-  software for 70,000 person media conglomerate.
+  software for 70,000 person media conglomerate
 - Sole Application Architect for leading Investment Banking firm,
   having designed an investment trading platform and several full stack
-  .NET-based application architectures.
+  .NET-based application architectures
 - Designer and implementer of distributed, load balanced computation
-  engines for leading Financial Services and Management Consulting firms.
+  engines for leading Financial Services and Management Consulting firms
 - Senior developer on many industry leading and industry first platforms
   including
   - First C++ Windows application development framework
-  - First Windows-based global money transfer program by a leading
+  - First Windows-based global money transfer program for a leading
     banking firm
   - First home airline reservation system for a leading airline
   - Worked in senior architect and developer positions on large products
@@ -73,43 +73,95 @@ nearly 27 year career.
   <dt>eLead: Contract/FTE, March 2015 – Present (Automotive CRM)</dt>
   <dd><b>Enterprise Architect</b>
       <ul>
-        <li>Developed Strategy, Principles, and Reference Architecture
-            Requirements for the microservice-based rewrite of a large
-            SaaS platform.</li>
+        <li>Developed strategy, principles, and reference architecture
+            requirements for the microservice-based rewrite of a large
+            SaaS platform</li>
         <li>Implemented core service technologies based on the requirements</li>
         <li>Implemented and oversaw deployment of several application
-            services based on the core services in production.</li>
+            services using the core services architecture.</li>
         <li>Prototyped Express/Redis based messaging system</li>
         <li>Shepherded several cross-functional initiatives including
-            Internal Open Source React component library.</li>
+            Internal Open Source React component library</li>
       </ul>
   </dd>
   <dt>AirWatch: FTE, November 2014 – March 2015 (Enterprise Mobility Management)</dt>
   <dd><b>C# Architect</b>
       <ul>
         <li>Supported the AirWatch scheduler service in a very large
-            SaaS environment.</li>
+            SaaS environment</li>
         <li>Mentored staff on Unit Testing techniques and Single Page
             Application Web technologies</li>
       </ul>
   </dd>
   <dt>Voya Investment Management: Contract/FTE, May 2009 – November 2014
       (Financial Services)</dt>
-  <dd></dd>
+  <dd><b>Application Architect</b>
+      <ul>
+        <li>Designed and managed the administration of Software
+            Configuration Management (SCM) and Application Lifecycle
+            Management (ALM) practices for 50+ person development
+            organization across three locations in a highly regulated
+            environment</li>
+        <li>Designed and implemented three full stack application architectures
+            using various Microsoft and web technologies over the course
+            of my employment</li>
+        <li>Developed Software Development Lifecycle (SDLC) in addition to
+            the software stack for a trading system</li>
+      </ul></dd>
   <dt>Kurt Salmon Associates: Contract, August 2007 – September 2008
       (Management Consulting)</dt>
-  <dd></dd>
+  <dd><b>Application Designer</b>
+      <ul>
+        <li>Provided analysis, design, and development of calculation
+            engine for the rewrite of a performance management system including
+            an Active/Active high availability cluster</li>
+      </ul></dd>
   <dt>Cox Enterprises: Contract, February 2006 – July 2007 (Media)</dt>
-  <dd></dd>
+  <dd><b>Enterprise Architect</b>
+      <ul>
+        <li>Participated in the design and provided the administration
+            of Software Configuration Management (SCM) and Application
+            Lifecycle Management (ALM) practices for 30+ person
+            development organization</li>
+        <li>Designed and implemented application architecture of new
+            Salary Administration application for 70,000 person
+            organization</li>
+      </ul></dd>
   <dt>Fiserv: Contract, May 2003 – June 2004, July 2005 – January 2006
       (Financial Services)</dt>
-  <dd></dd>
-  <dt>Aon: FTE, July 2004 – July 2005 (Financial Services)</dt>
-  <dd></dd>
+  <dd><b>Senior Software Consultant</b>
+      <ul>
+        <li>Designed and implemented code generation-based distributed
+            calculation engine for leading NAIC Annual Reporting
+            software provider</li>
+      </ul></dd>
+  <dt>Aon: FTE, July 2004 – July 2005 (Financial Services/Human
+      Resources)</dt>
+  <dd><b>Senior Application Architect</b>
+      <ul>
+        <li>Microsoft liaison and Enterprise Architect for 50,000 person
+            global firm during migration to external data center</li>
+        <li>Migration involved hundreds of applications and dozens of
+            application teams across many locations</li>
+      </ul></dd>
   <dt>re:Member Data Services: December 2001 – October 2002 (Financial Services)</dt>
-  <dd></dd>
+  <dd><b>Chief Technical Architect</b>
+      <ul>
+        <li>Implemented SDLC and full stack web architecture using the
+            just released .NET Framework</li>
+        <li>Designed and implemented innovative (for the time) ORM
+            framework and Unit Test engine</li>
+      </ul></dd>
   <dt>Whitewater Group: FTE/Contract, May 1990 – January 1993</dt>
-  <dd></dd>
+  <dd><b>Member Technical Staff</b>
+      <ul>
+        <li>Developed several subsystems for first Windows-based global money
+            transfer application using object-oriented programming
+            environment including Data Access Layer (DAL), printing
+            subsystem and  virtualized custom Windows GUI controls</li>
+        <li>Sole tester for first C++ Windows GUI application framework.
+            Drafted reference documentation for Window GDI</li>
+      </ul></dd>
 </dl>
 
 <p align="center"><i><a href="./KENBRUBAKER-WORK-HISTORY.html">

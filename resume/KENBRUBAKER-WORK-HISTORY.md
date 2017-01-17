@@ -36,7 +36,13 @@ Atlanta, GA
 http://investments.voya.com
 May 2009 – November 2014
 Position/Title: Application Architect (Permanent)
-Duties: Provide strategy, assessments, guidance, and expertise for custom application development company-wide. Provide Application Lifecycle Management (ALM) guidance and mentoring. Develop enterprise custom application software architecture, libraries and development processes. Provide Software Configuration Management (SCM) guidance and administration using Team Foundation Server (TFS). Provide development machine template and administration.
+Duties: Provide strategy, assessments, guidance, and expertise for
+custom application development company-wide. Provide Application
+Lifecycle Management (ALM) guidance and mentoring. Develop enterprise
+custom application software architecture, libraries and development
+processes. Provide Software Configuration Management (SCM) guidance and
+administration using Team Foundation Server (TFS). Provide development
+machine template and administration.
 Instrumental in maturing fragmented and obsolete development practice for 50+ person development organization as lead in distributed team of three application architects. Demonstrated patient determination in navigating multiple sites, teams, technologies and ambitions. 
 Highlights include:
 •	Lead architect on team that provided architecture utilizing ASP.NET WebAPI, ASP.NET MVC 5, and TypeScript. Utilized CSS3 styling and RBAC libraries and Enterprise Library integration of previous architectures. Mentored technical leads across the application development teams in the Scrum process as part of effort.
@@ -120,7 +126,9 @@ Key features include:
 •	The formula details are displayed in an Excel-like formula language that I designed that will replace the legacy formula language. 
 •	The scripting technology enables both runtime execution of custom formulas and a managed automation library for the application. 
 •	This is a significant effort employing many developers over an extremely compressed schedule supporting an extremely complex business model with metadata for thousands of forms and hundreds of thousands of formulas. 
-It is interesting to note that Microsoft is employing similar CodeDom-based rules engine technology for their Windows Workflow Foundation (WF) architecture.		Aon Corporation (Insurance/HR)
+It is interesting to note that Microsoft is employing similar CodeDom-based rules engine technology for their Windows Workflow Foundation (WF) architecture.
+
+Aon Corporation (Insurance/HR)
 Chicago, IL
 http://www.aon.com
 July 2004 - July 2005
