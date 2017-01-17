@@ -2,7 +2,7 @@
 
 # Resume
 
-
+![Profile Picture](/Avatar46-800.jpg)
 
 > **Kenneth Brubaker**<br>
 > Enterprise Application Architect
