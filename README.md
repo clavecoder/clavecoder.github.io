@@ -1,7 +1,3 @@
-# clavecoder.github.io
-
-Kenneth Brubaker's Personal Bio
-
 ## Communication
 
 - Blog [@kenbrubaker](https://medium.com/@kenbrubaker)
