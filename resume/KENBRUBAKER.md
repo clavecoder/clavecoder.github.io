@@ -12,6 +12,11 @@ development, having executed at all levels of the trade over my nearly
 27 year career. I have directed and participated in many large companies
 and important software development efforts.
 
+> > ### Formats
+> > [markdown]()
+> > [PDF](./kenbrubaker.pdf)
+> > [Word](./kenbrubaker.docx)
+
 ## Experience
 
 - Enterprise Application Architect and Microsoft liaison for 50,000
