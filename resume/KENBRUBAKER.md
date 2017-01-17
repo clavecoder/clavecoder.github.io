@@ -49,7 +49,7 @@ and important software development efforts.
 - .NET/Windows Architecture
 - Microservice Architecture
 - Modern Development Technologies including Git, GitHub, Chef, Vagrant,
-  Linux/Ubuntu, Docker, JavaScript, EcmaScript Standards, Node
+  Linux/Ubuntu, Redis, Docker, JavaScript, EcmaScript Standards, Node
   Development, NPM packages, golang, ExpressJS websites, TypeScript,
   Angular web application framework, Babel transpiler, and WebPack
   module bundler
