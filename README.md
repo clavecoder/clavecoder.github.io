@@ -7,3 +7,11 @@
 ## Resume
 
 - [Enterprise Application Architect](./resume/KENBRUBAKER.md)
+
+## Organizations
+
+- [Latticework](https://github.com/latticework)
+
+## Projects
+
+- ⌗ Jali [http://jali-ms.io/](http://jali-ms.io/)
