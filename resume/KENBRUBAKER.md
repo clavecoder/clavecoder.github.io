@@ -12,7 +12,7 @@ development, having executed at all levels of the trade over my nearly
 27 year career. I have directed and participated in many large companies
 and important software development efforts.
 
-### Format [PDF](./kenbrubaker.pdf) | [Word](./kenbrubaker.docx) | [TXT](./kenbrubaker.txt) | [Markdown](https://github.com/clavecoder/clavecoder.github.io/raw/master/resume/KENBRUBAKER.md) 
+### Format: [PDF](./kenbrubaker.pdf) | [Word](./kenbrubaker.docx) | [TXT](./kenbrubaker.txt) | [Markdown](https://github.com/clavecoder/clavecoder.github.io/raw/master/resume/KENBRUBAKER.md) 
 
 ## Experience
 
