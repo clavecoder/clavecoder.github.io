@@ -112,7 +112,7 @@ nearly 27 year career.
   <dd></dd>
 </dl>
 
-<p align="center"><i><a href="./kenbrubaker.pdf">
+<p align="center"><i><a href="./KENBRUBAKER-WORK-HISTORY.md">
    — complete work history —</a></i></p>
 
 ## Education
