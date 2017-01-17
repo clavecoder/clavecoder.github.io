@@ -2,7 +2,7 @@
 
 # Resume
 
-![Profile Picture](/AvatarSmall.jpg)
+![Profile Picture](/AvatarSmall.jpeg)
 
 > **Kenneth Brubaker**<br>
 > Enterprise Application Architect
