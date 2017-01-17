@@ -14,4 +14,4 @@
 
 ## Projects
 
-- ⌗ Jali [http://jali-ms.io/](http://jali-ms.io/)
+- **⌗ Jali**  [http://jali-ms.io/](http://jali-ms.io/)
