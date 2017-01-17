@@ -66,9 +66,9 @@ and directed and participated in important software development efforts.
   <dd></dd>
   <dt>Voya Investment Management: Contract/FTE, May 2009 - November 2014 (Financial Services)</dt>
   <dd></dd>
-  <dt>Kurt Salmon Associates: Contract, August 2007 - September 2008 (Management Consulting)</dt>
+  <dt>Kurt Salmon Associates: Contract, August 2007–September 2008 (Management Consulting)</dt>
   <dd></dd>
-  <dt>Cox Enterprises: Contract, February 2006 — July 2007 (Media)</dt>
+  <dt>Cox Enterprises: Contract, February 2006 – July 2007 (Media)</dt>
   <dd></dd>
   <dt>Fiserv: Contract, May 2003 — June 2004, July 2005 — January 2006 (Financial Services)</dt>
   <dd></dd>
