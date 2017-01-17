@@ -119,6 +119,7 @@ development efforts.
 ## Education
 
 > University of Pennsylvania
+
 > > Philadelphia, PA<br>
 > > BSE in Computer Science and Engineering<br>
 > > Graduated May 1990
@@ -126,5 +127,6 @@ development efforts.
 ## Certifications
 
 > Certified ScrumMaster (CSM)
+
 > > Scrum Alliance<br>
 > > March 2013 - March 2015
