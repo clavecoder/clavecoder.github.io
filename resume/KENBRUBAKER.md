@@ -2,6 +2,8 @@
 
 # Resume
 
+
+
 > **Kenneth Brubaker**<br>
 > Enterprise Application Architect
 
