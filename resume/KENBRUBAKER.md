@@ -61,10 +61,13 @@ and directed and participated in important software development efforts.
 
 <dl>
   <dt>eLead: Contract/FTE, March 2015 – Present (Automotive CRM)</dt>
-  <dd><b>C# Architect</b>
+  <dd><b>Enterprise Architect</b>
       <ul>
-        <li>Supported the AirWatch scheduler service in a very large SaaS environment.</li>
-        <li>Mentored staff on Unit Testing techniques and Single Page Application Web technologies</li>
+        <li>Developed Strategy, Principles, and Reference Architecture Requirements for the microservice rewrite of a large SaaS platform.</li>
+        <li>Implemented core service technologies based on the requirements</li>
+        <li>Implemented and oversaw deployment of several application services based on the core services in production.</li>
+	<li>Prototyped Express/Redis based messaging system</li>
+	<li>Shepharded several cross-functional initiatives including Internal Open Source React component library.</li>
       </ul>
   </dd>
   <dt>AirWatch: FTE, November 2014 – March 2015 (Enterprise Mobility Management)</dt>
