@@ -18,10 +18,10 @@ nearly 27 year career.
 <!-- markdownlint-disable line-length -->
 
 <p align="center">
-<i><a href="./kenbrubaker.pdf">PDF</a> —
-<a href="./kenbrubaker.docx">Word</a> —
-<a href="./kenbrubaker.txt">TXT</a> —
-<a href="https://github.com/clavecoder/clavecoder.github.io/raw/master/resume/KENBRUBAKER.md">Markdown</a></i>
+<i><a href="./kenbrubaker.pdf" target="_blank">PDF</a> —
+<a href="./kenbrubaker.docx" target="_blank">Word</a> —
+<a href="./kenbrubaker.txt" target="_blank">TXT</a> —
+<a href="https://github.com/clavecoder/clavecoder.github.io/raw/master/resume/KENBRUBAKER.md" target="_blank">Markdown</a></i>
 </p>
 
 <!-- markdownlint-enable line-length -->
@@ -108,11 +108,11 @@ nearly 27 year career.
   <dd></dd>
   <dt>re:Member Data Services: December 2001 – October 2002 (Financial Services)</dt>
   <dd></dd>
-  <dt>Whitewater Group: FTE/Contract, October 1991 – January 1993</dt>
+  <dt>Whitewater Group: FTE/Contract, May 1990 – January 1993</dt>
   <dd></dd>
 </dl>
 
-<p align="center"><i><a href="./KENBRUBAKER-WORK-HISTORY.md">
+<p align="center"><i><a href="./KENBRUBAKER-WORK-HISTORY.html">
    — complete work history —</a></i></p>
 
 ## Education
