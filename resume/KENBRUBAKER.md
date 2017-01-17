@@ -60,23 +60,27 @@ and directed and participated in important software development efforts.
 ## Selected Work History
 
 <dl>
-  <dt>eLead: Contract/FTE, March 2015-Present (Automotive CRM)</dt>
+  <dt>eLead: Contract/FTE, March 2015 – Present (Automotive CRM)</dt>
+  <dd><b>C# Architect</b>
+      <ul>
+        <li>Thing one</li>
+        <li>Thing two</li>
+      </ul></dd>
+  <dt>AirWatch: FTE, November 2014 – March 2015 (Enterprise Mobility Management)</dt>
   <dd></dd>
-  <dt>AirWatch: FTE, November 2014-March 2015 (Enterprise Mobility Management)</dt>
+  <dt>Voya Investment Management: Contract/FTE, May 2009 – November 2014 (Financial Services)</dt>
   <dd></dd>
-  <dt>Voya Investment Management: Contract/FTE, May 2009 - November 2014 (Financial Services)</dt>
-  <dd></dd>
-  <dt>Kurt Salmon Associates: Contract, August 2007–September 2008 (Management Consulting)</dt>
+  <dt>Kurt Salmon Associates: Contract, August 2007 – September 2008 (Management Consulting)</dt>
   <dd></dd>
   <dt>Cox Enterprises: Contract, February 2006 – July 2007 (Media)</dt>
   <dd></dd>
-  <dt>Fiserv: Contract, May 2003 — June 2004, July 2005 — January 2006 (Financial Services)</dt>
+  <dt>Fiserv: Contract, May 2003 – June 2004, July 2005 – January 2006 (Financial Services)</dt>
   <dd></dd>
-  <dt>Aon: FTE, July 2004 — July 2005 (Financial Services)</dt>
+  <dt>Aon: FTE, July 2004 – July 2005 (Financial Services)</dt>
   <dd></dd>
-  <dt>Whitewater Group: FTE/Contract, October 1991 — </dt>
+  <dt>re:Member Data Services: December 2001 – October 2002 (Financial Services)</dt>
   <dd></dd>
-  <dt></dt>
+  <dt>Whitewater Group: FTE/Contract, October 1991 – January 1993</dt>
   <dd></dd>
 </dl>
 
