@@ -2,6 +2,7 @@
 
 ## Communication
 
+- LinkedIn [kennethbrubaker](https://www.linkedin.com/in/kennethbrubaker)
 - Blog [@kenbrubaker](https://medium.com/@kenbrubaker)
 - Twitter [@clavecoder](https://twitter.com/clavecoder)
 - GitHub [clavecoder](https://github.com/clavecoder)
