@@ -9,19 +9,19 @@
 > **Kenneth Brubaker**<br>
 > Enterprise Application Architect
 
-eLead (Automotive CRM)
-Destin, FL
-http://www.elead-crm.com/
-March 2015 – Present
-Position/Title: Enterprise Architect (Permanent)
-Duties: Lead initiative to rearchitect large SaaS environment to a microservice system. Highlights include:
-•	Developed Strategy, Principles, and Reference Architecture Requirements for the microservice-based rewrite of a large SaaS platform.
-•	Implemented core service technologies based on the requirements
-•	Implemented and oversaw deployment of several application services based on the core services in production.
-•	Prototyped Express/Redis based messaging system
-•	Shepherded several cross-functional initiatives including Internal Open Source React component library.
+## eLead (Automotive CRM)
+> Destin, FL<br>
+> http://www.elead-crm.com/<br>
+> March 2015 – Present
+> Position/Title: Enterprise Architect (Permanent)
+Lead initiative to rearchitect large SaaS environment to a microservice system. Highlights include:
+- Developed Strategy, Principles, and Reference Architecture Requirements for the microservice-based rewrite of a large SaaS platform.
+- Implemented core service technologies based on the requirements
+- Implemented and oversaw deployment of several application services based on the core services in production.
+- Prototyped Express/Redis based messaging system
+- Shepherded several cross-functional initiatives including Internal Open Source React component library.
 
-AirWatch (Enterprise Mobility Management)
+## AirWatch (Enterprise Mobility Management)
 Atlanta, GA
 http://www.air-watch.com/
 November 2014 – March 2015
@@ -31,7 +31,7 @@ Duties: Provided developer guidance and product support in a very large scale mu
 •	Mentored staff on Unit Testing techniques and Single Page Application Web technologies.
 •	Researched continuous delivery and microservice technologies including Docker, Mesos, and Kubernetes.
 
-Voya Investment Management (Financial Services)
+## Voya Investment Management (Financial Services)
 Atlanta, GA
 http://investments.voya.com
 May 2009 – November 2014
@@ -53,7 +53,7 @@ Highlights include:
 •	Provided strategic assessments of Software Configuration Management Strategy, of Custom Application Development Strategy, and for Strategies to Mitigate Use of Business Owned Access Databases.
 •	Developed strategy for Production Business Owned servers in the Data Center. Include technical guidelines, regulatory compliant processes, and governance model. Strategy was adopted company-wide, implemented, and is now in production.
 
-Axis Capital (Insurance)
+## Axis Capital (Insurance)
 Atlanta, GA
 http://axiscapital.com/
 October 2008 – March 2009
@@ -71,7 +71,7 @@ Highlights include:
 •	Proposed and designed an enterprise Team Foundation Server implementation. Carried the project through the hardware procurement phase.
 •	Created standardized processes for application change deployment.
 
-Kurt Salmon Associates (Labor Management)
+## Kurt Salmon Associates (Labor Management)
 Atlanta, GA
 http://www.kurtsalmon.com/
 August 2007 – September 2008
@@ -85,7 +85,7 @@ Technologies I developed for this project include:
 •	Thread-based connection configuration library that simplifies connection to multiple source databases. Data Access code can avoid tracking which database to connect to. Configuration is thread-agile so that work item threads benefit from the library.
 •	These libraries constitute an application server framework used by the firm for application server products.
 
-Cox Enterprises (Media)
+## Cox Enterprises (Media)
 Atlanta, GA
 http://www.coxenterprises.com
 February 2006 – July 2007
@@ -110,7 +110,7 @@ Solution Architect for Rewrite of Salary Administration application from ASP to 
 
 Solution Architect for Dev/QA Virtualization project. Participated in team choosing virtualization technology. Developed project, solution, and environment business model. Created database to inventory existing projects. Implemented data entry and import processes to populate database using SQL Server 2005 and SSIS. Created analysis of current SCM and SLDC processes and recommended changes.
 
-Fiserv, Insurance Solutions Division (Financial Services)
+## Fiserv, Insurance Solutions Division (Financial Services)
 Cedar Rapids, IA
 http://www.fiservinsurance.com/
 July 2005 - January 2006
@@ -128,7 +128,7 @@ Key features include:
 •	This is a significant effort employing many developers over an extremely compressed schedule supporting an extremely complex business model with metadata for thousands of forms and hundreds of thousands of formulas. 
 It is interesting to note that Microsoft is employing similar CodeDom-based rules engine technology for their Windows Workflow Foundation (WF) architecture.
 
-Aon Corporation (Insurance/HR)
+## Aon Corporation (Insurance/HR)
 Chicago, IL
 http://www.aon.com
 July 2004 - July 2005
@@ -151,7 +151,7 @@ My position was Aon's Enterprise .NET/Windows Architect. In this  role I had the
 •	Maintain excellence in technical knowledge though self-study, reviewing industry research, and participation in industry development conferences. 
 •	In support of the Technical Migration effort, I have guided a US-wide presentation of the new Aon's new Active Directory architecture, gathered requirements and researched vendors for a new Secure File Transfer shared service, participated in the design of the Microsoft operating system configuration and middleware standard installations. I also lead the Microsoft Technical Account Manager's involvement in the infrastructure projects of the Technical Migration effort.
 
-Fiserv, Insurance Solutions Division (Financial Services)
+## Fiserv, Insurance Solutions Division (Financial Services)
 Cedar Rapids, IA
 http://www.fiservinsurance.com/
 May 2003 - June 2004
@@ -176,7 +176,7 @@ Other components/duties included:
 •	Added declarative RI to their SQL Server schema. 
 •	Added various features to their application, working across all software layers.
 
-Administrative Management Group, Inc (Insurance)
+## Administrative Management Group, Inc (Insurance)
 Arlington Heights, IL
 http://www.amgusa.com
 January 2003 - May 2003
@@ -185,7 +185,7 @@ Duties: Designer of core modules of a Defined Benefits administration system for
 •	Reporting Subsystem including a graphical, modular report configuration layout tool. 
 •	Modular Process Scheduling Subsystem.
 
-Metavante Corporation (Document Management)
+## Metavante Corporation (Document Management)
 Milwaukee, WI
 http://www.metavante.com
 November 2002 - December 2002
@@ -196,7 +196,7 @@ Duties: On this short-term project, was major contributor to the design and impl
 •	Aided in the Apache Axis SOAP web service implementation under JAVA. 
 •	Selected and implemented ACE as the cross-platform network and synchronization library to use to convert the batch-mode document generation engine, written in portable C++, to support real time document generation.
 
-re:Member Data Services (Financial Services)
+## re:Member Data Services (Financial Services)
 Indianapolis, IN
 http://www.remember.com
 December 2001 - October 2002
@@ -233,7 +233,7 @@ Technologies I have designed include:
 •	Application diagnostics library. Includes exception specification based exception handling and xml driven localized, encoded administrative message logging. 
 •	Custom attribute enabled unit test engine and harness.
 
-Click Commerce, Inc. (Supply Chain Management) 
+## Click Commerce, Inc. (Supply Chain Management)
 Chicago, IL
 http://www.clickcommerce.com
 March 2001 - November 2001
@@ -250,7 +250,7 @@ Developed various COM objects and utilities using VC++/ATL/STL:
 •	Developed COM objects and methods for importing data into the CMBD batching, surrogate key lookup, and foreign key fixups. 
 •	Designed and developed the command line utility that interfaced with the various import methods I developed.
 
-Fluid, Inc. (Software Development Consulting) 
+## Fluid, Inc. (Software Development Consulting)
 San Francisco, CA
 http://www.fluid.com
 March 2000 - February 2001
@@ -267,7 +267,7 @@ Sole developer of web catalog working demo for Nasco Technologies, a manufacturi
 
 Designed and developed code for interfacing with financial exchanges for a client in the financial industry, Enterprise Logic Systems, using VC++/ATL/STL. Exchange interfaces wrapped include the CBOE Hand Held interface and the ISE interface. Also investigated the LIFFE and OM exchange interfaces. 
 
-Arial Systems Corporation (Location Management)
+## Arial Systems Corporation (Location Management)
 Vernon Hills, IL
 http://www.ArialSystems.com
 June 1998 - March 2000
@@ -280,7 +280,7 @@ Designed and developed a Winsock-based messaging library to replace DCOM so the 
 
 I wrote and stabilized several client and NT service components for the locating system over the course of a year and a half. Along the way I developed a very comprehensive system software library that wraps many Win32 Api's such as: Event Logging, Registry, Synchronization objects, thread-safe data structures such as thread pools, I/O, IOCP, Winsock, Locale, Time, Debug Output, Exception Handling, COM, Console Api's, etc. These C++ libraries ease the transition to 100% MFC-free system code and demonstrate a mastery of the language, including templates and STL. In fact, I published the debug output library in the May '99 issue of C++ Report. 
 
-HBOC (Medical Services)
+## HBOC (Medical Services)
 Wheeling, IL
 June 1997 - June 1998
 Position/Title: Systems Architect (Permanent)
@@ -294,7 +294,7 @@ Designer and developer of data and interface C++-to-COM adapter classes called P
 
 Architect/developer of a comprehensive, generic Windows NT database loader application that loads large ASCII data files into SQL Server database using ODBC. Developed control file language that allows complex logic, surrogate key lookup, and stored procedure calls to populate database tables. The application, written in C++ under the VC++ 5.0 is highly optimized for throughput and is in production.
 
-GroupWorks Technologies, Inc. (Software Development Consulting)
+## GroupWorks Technologies, Inc. (Software Development Consulting)
 Evanston, IL
 January 1994 - June 1997
 Position/Title: Senior Software Engineer (Permanent)
@@ -327,7 +327,7 @@ Co-designed communications messaging and file transfer protocol and multitasking
 
 Developed e-mail post office. Designed and implemented store and forward server library. Functionality includes remote login and password verification, user and group address resolution, mail routing and database management functionality.
 
-First National Bank of Chicago (Banking)
+## First National Bank of Chicago (Banking)
 Chicago, IL
 July 1992 - January 1993
 Position/Title: Software Development Consultant (Contract)
@@ -341,7 +341,7 @@ Responsible for debugging several key areas of FW2000 including database, user-i
 
 The FW2000 application was a two year development effort requiring approximately 10 man years of design and implementation time alone and utilizing a development team consisting of 7 to 10 members.
 
-Whitewater Group (Software Development) 
+## Whitewater Group (Software Development)
 Evanston, IL
 October 1991 - July 1992
 Position/Title: Software Development Consultant (Contract)
@@ -358,13 +358,13 @@ The MS-Windows user-interface controls support virtualized viewing of database t
 
 Member of development team that built an MS-Windows based quality assurance tracking and planning application designed for the health-care industry. Designed and implemented database access and business-model infrastructure of the system. The application was written in Actor.
 
-The Whitewater Group (Software Development)
+## The Whitewater Group (Software Development)
 Evanston, IL
 May 1990 - September 1991
 Position/Title: Member Technical Staff (Permanent)
 Duties: Participated in three development efforts. Gained expertise in testing procedures and in the MS-Windows architecture. 
 
-Member of development team that developed the ObjectWindows application framework (OWL), a user-interface class library for MS-Windows. Whitewater developed OWL for Borland International, which included OWL as a significant part of its products Borland C++ with Application Frameworks and Turbo Pascal For Windows. 
+Member of development team that developed the ObjectWindows application framework (OWL), a user-interface class library for MS-Windows. Whitewater developed OWL for Borland International, which included OWL as a significant part of its products Borland C++ with Application Frameworks and Turbo Pascal For Windows.
 
 Developed test suite for testing ObjectWindows for C++ and Turbo Pascal. The test suite required development for both language platforms (i.e., written in C++ and Turbo Pascal). This was a major piece of work which tested all public interfaces to the class libraries. 
 
@@ -375,7 +375,7 @@ Produced test plan for public interface and trained personnel in the testing pro
 
 Member of team that ported ObjectGraphics class library to Borland C++. ObjectGraphics is an object-oriented graphics class library for MS-Windows.
 
-Center for the Computer Analysis of Texts, University of Pennsylvania (Non-Profit)
+## Center for the Computer Analysis of Texts, University of Pennsylvania (Non-Profit)
 Philadelphia, PA
 August 1987 - April 1990
 Position/Title: Programmer

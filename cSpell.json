@@ -6,11 +6,15 @@
     "language": "en",
     // words - list of words to be always considered correct
     "words": [
+        "borland",
         "brubaker",
         "clavecoder",
+        "destin",
         "docx",
         "ecma",
+        "evanston",
         "fiserv",
+        "fnbc",
         "href",
         "jali",
         "kenbrubaker",
