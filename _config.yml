@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+description: A short description of your site's purpose
+show_downloads: true
+google_analytics: UA-81234965-3
