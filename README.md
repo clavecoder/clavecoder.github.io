@@ -9,7 +9,7 @@
 
 ## Resume
 
-- [Enterprise Application Architect](./resume/KENBRUBAKER.md)
+- [Enterprise Application Architect](./resume/kenbrubaker.md)
 
 ## Organizations
 

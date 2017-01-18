@@ -168,7 +168,7 @@ nearly 27 year career.
       </ul></dd>
 </dl>
 
-<p align="center"><i><a href="./KENBRUBAKER-WORK-HISTORY.html">
+<p align="center"><i><a href="./kenbrubaker-work-history.html">
    — complete work history —</a></i></p>
 
 ## Education
