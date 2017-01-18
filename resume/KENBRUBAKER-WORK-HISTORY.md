@@ -14,6 +14,7 @@
 > http://www.elead-crm.com/<br>
 > March 2015 – Present
 > Position/Title: Enterprise Architect (Permanent)
+
 Lead initiative to rearchitect large SaaS environment to a microservice system. Highlights include:
 - Developed Strategy, Principles, and Reference Architecture Requirements for the microservice-based rewrite of a large SaaS platform.
 - Implemented core service technologies based on the requirements
@@ -22,14 +23,15 @@ Lead initiative to rearchitect large SaaS environment to a microservice system. 
 - Shepherded several cross-functional initiatives including Internal Open Source React component library.
 
 ## AirWatch (Enterprise Mobility Management)
-Atlanta, GA
-http://www.air-watch.com/
-November 2014 – March 2015
-Position/Title: C# Architect (Permanent)
-Duties: Provided developer guidance and product support in a very large scale multi-tenant SaaS environment. Highlights include:
-•	Supported the AirWatch scheduler service in a SaaS environment. Successfully resolved stability issues with the service by implementing a self-healing service management framework. The framework provided thread lifetime management and supported fault discovery and recovery in a large-scale, clustered environment.
-•	Mentored staff on Unit Testing techniques and Single Page Application Web technologies.
-•	Researched continuous delivery and microservice technologies including Docker, Mesos, and Kubernetes.
+> Atlanta, GA<br>
+> http://www.air-watch.com/<br>
+> November 2014 – March 2015<br>
+> Position/Title: C# Architect (Permanent)
+
+Provided developer guidance and product support in a very large scale multi-tenant SaaS environment. Highlights include:
+- Supported the AirWatch scheduler service in a SaaS environment. Successfully resolved stability issues with the service by implementing a self-healing service management framework. The framework provided thread lifetime management and supported fault discovery and recovery in a large-scale, clustered environment.
+- Mentored staff on Unit Testing techniques and Single Page Application Web technologies.
+- Researched continuous delivery and microservice technologies including Docker, Mesos, and Kubernetes.
 
 ## Voya Investment Management (Financial Services)
 Atlanta, GA
