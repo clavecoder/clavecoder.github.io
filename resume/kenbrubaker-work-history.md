@@ -283,8 +283,14 @@ Technologies I have designed include:
 - WebTask library for ASP.NET. Provides loose coupling between Web pages so that page access is as simple as a function call. 
 - Heavily factored pages using ASP.NET User Controls. Provides a very high degree of reuse of data editors, search facilities and other components. 
 - Data exchange library for ASP.NET pages. Provides two-way binding to client-tier business objects via virtually code-free integration with the metadata. 
-- Data driven multilingual support. Includes AccessKey support. 
-- Comprehensive .NET role-based security subsystem. Roles can be required and granted at the organization, facility, user, machine and application levels. Graded rights to resources can be granted to every level. Integrates with .NET Forms Authentication for the Web application and NT Authentication for Windows and console applications and NT Services. Provides seamless integration with middle-tier components by utilizing the logical thread call context. 
+- Data driven multilingual support. Includes AccessKey support.
+- Comprehensive .NET role-based security subsystem. Roles can be
+  required and granted at the organization, facility, user, machine and
+  application levels. Graded rights to resources can be granted to every
+  level. Integrates with .NET Forms Authentication for the Web
+  application and NT Authentication for Windows and console applications
+  and NT Services. Provides seamless integration with middle-tier
+  components by utilizing the logical thread call context.
 - Data driven navigation for menus and navigation trees. Integrates with security subsystem to provide tiered access to pages. 
 - Generic Data Services library. Provides metadata driven invocation of Sql Server stored procedures. 
 - Stored procedure error handling architecture that provides meaningful, object specific error and warning messages. 
@@ -372,17 +378,27 @@ Architect/developer of a comprehensive, generic Windows NT database loader appli
 
 Fulltime senior consultant for development and consulting firm. Have effectively utilized expertise in project management, project administration, object oriented development, and database and communications software design. 
 
-Development manager of multi-million dollar high growth startup telecommunications firm, Plextel. Gaining experience in project management and other managerial skills, I professionalized the development department for a highly profitable mission-critical expert system based computer dating service developed using OS/2 and Oracle. 
-•	Established extensive software development infrastructure while managing a team of four developers and four quality assurance staff having released more than eight maintenance releases in under a year. 
-•	Was instrumental in the creation of a software patent application and in the successful sale of the firm.
-Member of team developing highly successful United Connection travel reservation retail software for United Airlines. The product was a joint effort between United Airlines, Microsoft Consulting Services, and GroupWorks. Project targeted the Windows 3.1 and Windows 95 platforms and was developed using Visual C++ 2.0 on the Windows NT platform. It was a two year effort employing 9 developers and 5 QA staff. 
-•	Exercised project administration and testing expertise to train QA staff on development environment setup, version control software and procedures, build administration and automation, and regression test development and procedures. 
-•	Employed communications software expertise to implement packet data transfer protocol object and general communications subsystem design. 
-•	Developed the application's application printing/reporting subsystem. 
-•	Developed robust installation software on three platforms.
+Development manager of multi-million dollar high growth startup telecommunications firm, Plextel. Gaining experience in project management and other managerial skills, I professionalized the development department for a highly profitable mission-critical expert system based computer dating service developed using OS/2 and Oracle.
+
+- Established extensive software development infrastructure while managing a team of four developers and four quality assurance staff having released more than eight maintenance releases in under a year. 
+- Was instrumental in the creation of a software patent application and in the successful sale of the firm.
+
+Member of team developing highly successful United Connection travel
+reservation retail software for United Airlines. The product was a joint
+effort between United Airlines, Microsoft Consulting Services, and
+GroupWorks. Project targeted the Windows 3.1 and Windows 95 platforms
+and was developed using Visual C++ 2.0 on the Windows NT platform. It
+was a two year effort employing 9 developers and 5 QA staff.
+
+- Exercised project administration and testing expertise to train QA staff on development environment setup, version control software and procedures, build administration and automation, and regression test development and procedures. 
+- Employed communications software expertise to implement packet data transfer protocol object and general communications subsystem design. 
+- Developed the application's application printing/reporting subsystem.
+- Developed robust installation software on three platforms.
+
 Developed data interchange and database functionality for major financial trading firm, Swiss Bank. Software was developed under the NextStep operating system. 
-•	Utilized data-model object expertise to develop external data import/export mechanism. Library features include concise, user readable file format; clear language grammar; object identity determination; forward, backward, and nested reference resolution; and parsing error reporting and recovery. 
-•	Developed object-key technology for client's internally developed versionable, object oriented, client-server DBMS (OODBMS) built on Sybase.
+
+- Utilized data-model object expertise to develop external data import/export mechanism. Library features include concise, user readable file format; clear language grammar; object identity determination; forward, backward, and nested reference resolution; and parsing error reporting and recovery. 
+- Developed object-key technology for client's internally developed versionable, object oriented, client-server DBMS (OODBMS) built on Sybase.
 
 ## Dynatec Systems Corp (Sales Force Automation)
 
