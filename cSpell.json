@@ -7,10 +7,12 @@
     // words - list of words to be always considered correct
     "words": [
         "brubaker",
+        "clavecoder",
         "docx",
         "ecma",
         "fiserv",
         "href",
+        "jali",
         "kenbrubaker",
         "kubernetes",
         "lifecycle",

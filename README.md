@@ -1,3 +1,5 @@
+<!-- markdownlint-disable first-line-h1 first-header-h1 -->
+
 ## Communication
 
 - Blog [@kenbrubaker](https://medium.com/@kenbrubaker)
@@ -10,8 +12,9 @@
 
 ## Organizations
 
-- [Latticework](https://github.com/latticework)
+- <a href="https://github.com/latticework" target="_blank">Latticework</a>
+  SaaS Technology Research Group
 
 ## Projects
 
-- **⌗ Jali** [http://jali-ms.io/](http://jali-ms.io/)
+- **⌗ Jali**  <a href="http://jali-ms.io/" target="_blank">http://jali-ms.io/</a>
