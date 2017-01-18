@@ -26,14 +26,14 @@ nearly 27 year career.
 
 <!-- markdownlint-enable line-length -->
 
-## Experience 
+## Experience
 
 - Implemented and deployed service architecture for leading Automotive
   CRM SaaS provider based on microservice principles I developed in
   conjunction with the technical leadership team and reference
-  architecture requirements developed from those principles.
+  architecture requirements developed from those principles
 - Enterprise Application Architect and Microsoft liaison for 50,000
-  person global Financial Services firm during their migration to an
+  person global Financial Services firm for their migration to an
   external data center
 - Designed .NET Enterprise Software Framework and Salary Administration
   software for 70,000 person media conglomerate
@@ -82,8 +82,8 @@ nearly 27 year career.
             SaaS platform</li>
         <li>Implemented core service technologies based on the requirements</li>
         <li>Implemented and oversaw deployment of several application
-            services using the core services architecture.</li>
-        <li>Prototyped Express/Redis based messaging system</li>
+            services using the core services architecture</li>
+        <li>Prototyped Express/Redis-based messaging system</li>
         <li>Shepherded several cross-functional initiatives including
             Internal Open Source React component library</li>
       </ul>
@@ -144,7 +144,7 @@ nearly 27 year career.
   <dd><b>Senior Application Architect</b>
       <ul>
         <li>Microsoft liaison and Enterprise Architect for 50,000 person
-            global firm during migration to external data center</li>
+            global firm for migration to external data center</li>
         <li>Migration involved hundreds of applications and dozens of
             application teams across many locations</li>
       </ul></dd>
@@ -163,8 +163,8 @@ nearly 27 year career.
             transfer application using object-oriented programming
             environment including Data Access Layer (DAL), printing
             subsystem and  virtualized custom Windows GUI controls</li>
-        <li>Sole tester for first C++ Windows GUI application framework.
-            Drafted reference documentation for Window GDI</li>
+        <li>Sole tester for first C++ Windows GUI application framework</li>
+        <li>Drafted reference documentation for Window GDI</li>
       </ul></dd>
 </dl>
 
