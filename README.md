@@ -17,7 +17,7 @@
 
 ## Organizations
 
-- ![image](./SVG-Export-2017-1-4-24-51.svg) **格子 Latticework** <a href="https://latticework.github.io" target="_blank">SaaS Technology Research Group ➥</a>
+- **格子 Latticework** <a href="https://latticework.github.io" target="_blank">SaaS Technology Research Group ➥</a>
   
 ## Projects
 
