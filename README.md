@@ -17,7 +17,7 @@
 
 ## Organizations
 
-- 格子 Latticework SaaS Technology Research Group <a href="https://latticework.github.io" target="_blank">https://latticework.github.io ➥</a>
+- <a href="https://latticework.github.io" target="_blank"><b>格子</b> Latticework SaaS Technology Research Group ➥</a>
   
 ## Projects
 
