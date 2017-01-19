@@ -21,4 +21,4 @@
   
 ## Projects
 
-- **⌗ Jali**  <a href="http://jali-ms.io/" target="_blank">http://jali-ms.io/ ➥</a>
+- **⌗ Jali**  <a href="http://jali-ms.io/" target="_blank">http://jali-ms.io ➥</a>
