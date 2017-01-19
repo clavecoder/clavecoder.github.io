@@ -1,11 +1,15 @@
 <!-- markdownlint-disable first-line-h1 first-header-h1 -->
 
+## ![Provfile Picture](http://gravatar.com/avatar/d09f0e413bbefdf600c3b7eae145a559?s=80&d=mm)
+
+Welcome to my personal software development page! Here's how to interact with me, what I do, and what I'm working on.
+
 ## Communication
 
-- LinkedIn [kennethbrubaker](https://www.linkedin.com/in/kennethbrubaker)
-- Blog [@kenbrubaker](https://medium.com/@kenbrubaker)
-- Twitter [@clavecoder](https://twitter.com/clavecoder)
-- GitHub [clavecoder](https://github.com/clavecoder)
+- LinkedIn <a href="https://www.linkedin.com/in/kennethbrubaker" target="_blank">kennethbrubaker</a>
+- Blog <a href="https://medium.com/@kenbrubaker" target="_blank">@kenbrubaker</a>
+- Twitter <a href="https://twitter.com/clavecoder" target="_blank">@clavecoder</a>
+- GitHub <a href="https://github.com/clavecoder" target="_blank">clavecoder</a>
 
 ## Resume
 
@@ -13,7 +17,7 @@
 
 ## Organizations
 
-- <a href="https://github.com/latticework" target="_blank">Latticework</a>
+- <a href="https://latticework.github.io/" target="_blank">Latticework</a>
   SaaS Technology Research Group
 
 ## Projects
