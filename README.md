@@ -6,10 +6,10 @@
 
 ## Communication
 
-- LinkedIn <a href="https://www.linkedin.com/in/kennethbrubaker" target="_blank">kennethbrubaker</a>
-- Blog <a href="https://medium.com/@kenbrubaker" target="_blank">@kenbrubaker</a>
-- Twitter <a href="https://twitter.com/clavecoder" target="_blank">@clavecoder</a>
-- GitHub <a href="https://github.com/clavecoder" target="_blank">clavecoder</a>
+- LinkedIn <a href="https://www.linkedin.com/in/kennethbrubaker" target="_blank">kennethbrubaker ➥</a>
+- Blog <a href="https://medium.com/@kenbrubaker" target="_blank">@kenbrubaker ➥</a>
+- Twitter <a href="https://twitter.com/clavecoder" target="_blank">@clavecoder ➥</a>
+- GitHub <a href="https://github.com/clavecoder" target="_blank">clavecoder ➥</a>
 
 ## Resume
 
@@ -17,9 +17,9 @@
 
 ## Organizations
 
-- <a href="https://latticework.github.io/" target="_blank">Latticework</a>
+- <a href="https://latticework.github.io/" target="_blank">Latticework ➥</a>
   SaaS Technology Research Group
 
 ## Projects
 
-- **⌗ Jali**  <a href="http://jali-ms.io/" target="_blank">http://jali-ms.io/</a>
+- **⌗ Jali**  <a href="http://jali-ms.io/" target="_blank">http://jali-ms.io/ ➥</a>
