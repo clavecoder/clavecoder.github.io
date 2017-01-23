@@ -1,6 +1,6 @@
 <!-- markdownlint-disable first-line-h1 -->
 
-*[Back to resume](./KENBRUBAKER.md)*
+*[Back to resume](./kenbrubaker.md)*
 
 # Complete Work History
 
