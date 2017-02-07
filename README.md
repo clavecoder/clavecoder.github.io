@@ -1,6 +1,6 @@
 <!-- markdownlint-disable first-line-h1 first-header-h1 -->
 
-## ![Provfile Picture](http://gravatar.com/avatar/d09f0e413bbefdf600c3b7eae145a559?s=80&d=mm)
+## ![Profile Picture](http://gravatar.com/avatar/d09f0e413bbefdf600c3b7eae145a559?s=80&d=mm)
 
 **🔑** Welcome to my personal software development page! Here's how to interact with me, what I do, and what I'm working on.
 
