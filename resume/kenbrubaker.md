@@ -73,6 +73,9 @@ nearly 27 year career.
 
 ## Selected Work History
 
+<p align="center"><i><a href="./kenbrubaker-work-history.html">
+   — complete work history —</a></i></p>
+
 <dl>
   <dt>eLead: Contract/FTE, March 2015 – Present (Automotive CRM)</dt>
   <dd><b>Enterprise Architect</b>
@@ -167,9 +170,6 @@ nearly 27 year career.
         <li>Drafted reference documentation for Window GDI</li>
       </ul></dd>
 </dl>
-
-<p align="center"><i><a href="./kenbrubaker-work-history.html">
-   — complete work history —</a></i></p>
 
 ## Education
 
