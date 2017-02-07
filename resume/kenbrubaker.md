@@ -24,6 +24,9 @@ nearly 27 year career.
 <a href="https://github.com/clavecoder/clavecoder.github.io/raw/master/resume/KENBRUBAKER.md" target="_blank">Markdown</a></i>
 </p>
 
+<p align="center"><i><a href="./kenbrubaker-work-history.html">
+   — complete work history —</a></i></p>
+
 <!-- markdownlint-enable line-length -->
 
 ## Experience
@@ -72,9 +75,6 @@ nearly 27 year career.
   Angular, Babel, and WebPack
 
 ## Selected Work History
-
-<p align="center"><i><a href="./kenbrubaker-work-history.html">
-   — complete work history —</a></i></p>
 
 <dl>
   <dt>eLead: Contract/FTE, March 2015 – Present (Automotive CRM)</dt>
