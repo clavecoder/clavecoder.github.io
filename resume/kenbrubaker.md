@@ -18,10 +18,10 @@ nearly 27 year career.
 <!-- markdownlint-disable line-length -->
 
 <p align="center">
-<i><a href="./kenbrubaker.pdf" target="_blank">PDF</a> —
+<i>— <a href="./kenbrubaker.pdf" target="_blank">PDF</a> —
 <a href="./kenbrubaker.docx" target="_blank">Word</a> <!-- —
 <a href="./kenbrubaker.txt" target="_blank">TXT</a> --> —
-<a href="https://github.com/clavecoder/clavecoder.github.io/raw/master/resume/KENBRUBAKER.md" target="_blank">Markdown</a></i>
+<a href="https://github.com/clavecoder/clavecoder.github.io/raw/master/resume/KENBRUBAKER.md" target="_blank">Markdown</a> —</i>
 </p>
 
 <p align="center"><i><a href="./kenbrubaker-work-history.html">
