@@ -4,6 +4,10 @@
  cSpell:ignore tibco corba dcom msmq brokerless amqp mqtt rtos
 -->
 
+<p align="right">
+<i>— <a href="https://github.com/clavecoder/clavecoder.github.io/commits/master/herschend/index.md" target="_blank">document history</a></i>
+</p>
+
 # Herschend Director of Enterprise Web Architecture Position Analysis
 
 
@@ -27,8 +31,8 @@
     information
   - A new software architecture is needed to capture the opportunities
     provided and challenges posed by the next decade
-  - A Director of Enterprise Web Applications provides hub around which
-    to develop and deliver that architecture
+  - A Director of Enterprise Web Applications provides a hub around
+    which to develop and deliver that architecture
 - Distributed systems
   - A history of distributed systems is discussed
   - Current distributed systems technologies are discussed
@@ -40,10 +44,10 @@
 
 I've been asked by Jon Dilly at **iStaff** to provide an analysis of the
 Director of Enterprise Web Architecture position at Herschend. I don't
-feel very comfortable providing analysis with only a few hours worth of
-conversation but with the caveat that my assessments may drastically
-change as I learn more about Herschend and it's business, I will proceed
-with what I feel may be a reasonable approach to the position.
+feel very comfortable providing an analysis with only a few hours of
+conversation but with the caveat that my assessments may change as I
+learn more about Herschend and it's business, I will proceed with what I
+feel may be a reasonable approach to the position.
 
 ## Introduction
 
@@ -70,21 +74,22 @@ greater customer satisfaction.
 ### The age of connected things
 
 A similar trend is occurring in the world of machines and devices. With
-Wi-Fi modules to be had for as little as $1 [\[GBMod\]][GBMod] no longer
-should we consider machinery as merely mechanical or electrical systems.
-Moreover, the prospect of connected devices provides unprecedented
-opportunity for preventing and mitigating downtime of entertainment
-and amusement center rides and providing more opportunities to delight
-the guest.
+Wi-Fi modules to be had for as little as $1 [\[GBMod\]][GBMod], no
+longer should we consider machinery as merely mechanical or electrical
+systems. Moreover, the prospect of connected devices provides
+unprecedented opportunity for preventing and mitigating downtime of
+entertainment and amusement center rides and for providing more
+opportunities to delight guests.
 
 ### A new connected architecture
 
 To meet the opportunities and challenges that Herschend faces in the
 coming decade, a new distributed and connected architecture must be
 envisioned and enacted using technologies and practices to which Herschend
-has not been used in the past. A Director of Enterprise Web Architecture
-provides a nexus around which to plan, construct, and deliver
-distributed and connected software systems to meet the needs of the 2020's
+has not been used in the past. A qualified Director of Enterprise Web
+Architecture provides a nexus around which to plan, construct, and
+deliver distributed and connected software systems to meet the needs of
+the 2020's
 
 ## Distributed Systems
 
@@ -107,33 +112,34 @@ series of standards, and finally REST, the communications protocol for
 HTTP (the web). These application and transport layer protocols can be
 characterized as *Smart Endpoints/Dumb Pipes*.
 
-While in the past debates and large sums of money have been bandied
-about over the issue of how to best connect distributed systems, much of
-the industry has settled down to using REST for customer facing systems
-and combination of more specialized messaging systems internally. These
-include lightweight brokerless technologies such as ZeroMQ, and brokered
-messaging protocols. Major players include Kafka, RabbitMQ, and the
-Advanced Message Queuing Protocol (AMQP) compliant ActiveMQ. For device
-networks, i.e., Internet of Things (IoT), MQTT often used unless
-real-time operating system (RTOS) is required. For logging and monitoring
-communication, Kafka and StatsD are used along with a plethora of
-proprietary monitoring protocols and services.
+While in the past debates have raged and large sums of money have been
+consumed over the issue of how to best connect distributed systems, much
+of the industry has settled down to using REST for customer facing
+systems and combination of more specialized messaging systems
+internally. These include lightweight brokerless technologies such as
+ZeroMQ, and brokered messaging protocols. Major players include Kafka,
+RabbitMQ, and the Advanced Message Queuing Protocol (AMQP) compliant
+ActiveMQ. For device networks, i.e., Internet of Things (IoT), MQTT
+is often used unless a real-time operating system (RTOS) is required. For
+logging and monitoring communication, Kafka and StatsD are frequently
+used along with a plethora of proprietary monitoring protocols and
+services.
 
 As cloud based providers have exploded in size and number, the balance
 of power has shifted away from the gridiron software vendors to cloud
 software providers creating and sharing their own protocols and
 implementation. Most of the technologies just mentioned fall into this
-category. Since software development at scale has democratized with the
-advent of cloud hosting, software providers have looked for ways to
+category. Since software development at scale has been democratized with
+the advent of cloud hosting, software providers have looked for ways to
 increase software delivery velocity.
 
 To facilitate independent deployment of system capabilities,
-increasingly have turned away from the *smart pipes* approach which
-enforces a high degree of coupling between the components and especially
-with the central system. Instead, they have turned to a
-*smart endpoints* approach employing teams of developers delivering
-independent systems within the organization that interact over standard
-protocols, most especially REST, which can be considered the universal protocol.
+enterprises have increasingly have turned away from the *smart pipes*
+approach which enforces a high degree of coupling between components
+and the central system. Instead, they have turned to a *smart endpoints*
+approach employing teams of developers delivering independent systems
+within the organization that interact over standard protocols, most
+especially REST, which can be considered the universal protocol.
 
 ### Distributed systems choices
 
@@ -141,12 +147,12 @@ That Herschend sees the need to adopt distributed computing principals
 has already been expressed by several staff members. While, perhaps not
 the most critical technology choice to be made for short term success,
 it is nonetheless vital to the long term competitive advantage for
-Herschend with respect to their systems integration capability. Equally
-important a misstep in choice of technology or execution could be very
-costly. It is, therefore, very important that a detailed investigation
-and formal product review be executed early in the planning stage of the
-initial project. The method of the formal product review is discussed
-elsewhere in this document.
+Herschend with respect to their systems integration capability in an
+increasingly connected world. Equally important a misstep in choice of
+technology or execution could be very costly. It is, therefore, very
+important that a detailed investigation and formal product review be
+executed early in the planning stage of the initial project. The method
+of the formal product review is discussed elsewhere in this document.
 
 ---
 
