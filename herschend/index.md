@@ -1,18 +1,20 @@
 <!-- markdownlint-disable first-line-h1  -->
 <!--
  cSpell:ignore herschend herschend's xers snapchat pokéman united's
- cSpell:ignore tibco corba dcom msmq brokerless amqp mqtt rtos
+ cSpell:ignore tibco corba dcom msmq brokerless amqp mqtt rtos devops
 -->
-
-<p align="right">
-<i>— <a href="https://github.com/clavecoder/clavecoder.github.io/commits/master/herschend/index.md" target="_blank">document history</a></i>
-</p>
 
 # Herschend Director of Enterprise Web Architecture Position Analysis
 
-
 **Kenneth Brubaker<br>
 2017-02-19**
+
+<p align="right">
+<i>— <a href="https://github.com/clavecoder/clavecoder.github.io/commits/master/herschend/index.md"
+        target="_blank">document history</a></i>
+</p>
+
+![document status](https://img.shields.io/badge/document_status-DRAFT-0101aa.svg)
 
 <!-- markdownlint-disable ul-style -->
 
@@ -21,6 +23,7 @@
 > - [Caveat](#caveat)
 > - [Introduction](#introduction)
 > - [Distributed Systems](#distributed-systems)
+> - [DevOps](#devops)
 
 <!-- markdownlint-enable ul-style -->
 
@@ -41,6 +44,8 @@
     elsewhere in the document
 
 ## Caveat
+
+![section status](https://img.shields.io/badge/section_status-Review-ADAD01.svg)
 
 I've been asked by Jon Dilly at **iStaff** to provide an analysis of the
 Director of Enterprise Web Architecture position at Herschend. I don't
@@ -92,6 +97,8 @@ deliver distributed and connected software systems to meet the needs of
 the 2020's
 
 ## Distributed Systems
+
+![section status](https://img.shields.io/badge/section_status-Review-ADAD01.svg)
 
 ### A short history of distributed systems
 
@@ -153,6 +160,18 @@ technology or execution could be very costly. It is, therefore, very
 important that a detailed investigation and formal product review be
 executed early in the planning stage of the initial project. The method
 of the formal product review is discussed elsewhere in this document.
+
+## DevOps
+
+![section status](https://img.shields.io/badge/section_status-DRAFT-0101aa.svg)
+
+### Product lifecycle
+
+### Application lifecycle
+
+### Agile development
+
+### The importance of automation
 
 ---
 
