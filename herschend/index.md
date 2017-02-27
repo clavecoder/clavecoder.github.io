@@ -2,6 +2,7 @@
 <!--
  cSpell:ignore herschend herschend's xers snapchat pokéman united's
  cSpell:ignore tibco corba dcom msmq brokerless amqp mqtt rtos devops
+ cSpell:ignore pdlc antifragile
 -->
 
 # Herschend Director of Enterprise Web Architecture Position Analysis
@@ -167,11 +168,115 @@ of the formal product review is discussed elsewhere in this document.
 
 ### Product lifecycle
 
-### Application lifecycle
+It is a truism that all applications and software technologies undergo a
+product lifecycle: they are introduced, enhanced, maintained, contained,
+and retired. As with any other depreciating asset, it is incumbent on
+the organization to manage the lifecycle of of these applications and
+technologies to the best possible advantage of the business. It falls to
+the Management of Information Systems (MIS) department to perform this
+function. This process is what is called Product Portfolio Management
+(PPM). The author has seen many enterprises, who so often are careful of
+other forms of asset responsibility, not know the need or how to acquire
+the skills to perform this needed function.
 
-### Agile development
+All enterprises have a portfolio of Commercial off the shelf (COTS)
+applications and custom developed applications. Some are internal
+corporate housekeeping applications and other are client facing
+applications that are strategic for their business operation and
+advantage. Besides human capital and sometimes real estate, applications
+and the infrastructure to host them can be among the most costly
+expenses an enterprise has. Moreover, this software is frequently
+essential for corporate success. Application breakage, data center
+outages, and enterprise data loss in some systems can cause
+catastrophic failure of an organization.
+
+In addition, the ever increasing pace of change in technology and the
+incessant push to increase productivity through systems integration
+and real-time access, place increasing strains on information systems
+department to deliver software capabilities that at the pace and
+availability that the business need require.
+
+An important component of PPM is the planing and execution of product
+change known as the Product Development Lifecycle (PDLC). Many
+organizations, as they grow, tackle software product issues as they
+develop or become aware of them. As they grow, they begin to find that
+the ad-hoc process fails them as many critical needs to revamp obsolete
+software or provide strategic enhancements out strips their immediate
+resources. In short, non-technology companies they find it difficult to
+acquire this important capability and proficiency to plan and execute
+software product change.
+
+It is in these areas of PPM and PDLC that Herschend sees
+challenges and opportunities as it ponders how it will approach the
+coming decade. If it can organize itself to approach PPM and PDLC to
+capitalize on the change required to support future distributed systems,
+Herschend can transform the risk involved to significant advantage.
+
+### From Application lifecycle to DevOps
+
+Traditional approaches to application change involve yearly planning
+meetings and PDLC execution cycles of one or more years. For custom
+developed applications there is an associated software change capability
+known as the Software Development Lifecycle (SDLC) and associated
+software feature management proficiency known as Application Lifecycle
+Management (ALM). It is this areas of SDLC and ALM that the author has
+many years of experience operating within the context of the larger
+PPM governance and PDLC process in entities of all sizes over the span
+of 26 years.
+
+Certainly, many changes have occurred within the industry over the
+years, however it the adoption of Agile development practices that has
+truly transformed the way software products are managed.
+
+The driver of this adoption curve are the huge cloud-native software
+providers, as discussed briefly in the previous section on distributed
+systems. These large software providers have released the tools they use
+to enable this continuous, global-scale deployments free of charge to
+the community. Since even the smallest company can now be a global,
+high-availability entity that can roll out change almost instantly, the
+competitive advantage of larger entities that can stand up large data
+centers and afford expensive vendor development and deployment tools is
+now lost. Even the largest organizations now need to acquiesce to this
+new reality.
+
+The name of this new reality, in a word, is DevOps; that is, the marriage
+of Development and Operations into a single continuum. Using open tools
+provided to the community by and maintained with the support of larger
+organizations, any size company can reap the benefits of DevOps — if
+they are able to make the organizational changes necessary.
+
+Having the tools for DevOps provide little benefit if the processes to
+support it are not also present. These new processes include Agile
+development methodologies such as Scrum and Lean, Test Driven
+Development (TDD), Continuous Integration (CI), Continuous Delivery
+(CD), Antifragile software design, A/B testing, and many more. But it is
+Agile Development that is most transformative as it underpins and
+enables the other processes. When taken as a whole, DevOps enables the
+unresponsive traditional PDLC process into a very responsive software
+factory enabled through DevOps.
+
+### Agile product delivery
+
+The business needs of the next decade cannot be met using traditional
+product and software development practices. Agile development practices
+bring the PDLC and SDLC processes together through the use of the
+Product Backlog and inclusion of a Product Owner as a member of an Agile
+Team who works with product managers and empowered to make detailed
+business decisions as part of the team.
+
+Once product management is drawn within the software development process
+and DevOps pulls product delivery within the software development
+process, the enterprise now has the means to deploy business features
+as swiftly as possible, enabling even the testing of business questions
+and theories without overbearing development time and costs.
+
+All of this is possible only if the organization is changed into a
+cross-functional process where product management and software delivery
+becomes a continuous process.
 
 ### The importance of automation
+
+
 
 ---
 
