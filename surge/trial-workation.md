@@ -6,7 +6,7 @@
 
 # Trial Workation Retrospective
 
-Kenneth Brubaker
+Kenneth Brubaker<br/>
 *Friday, May 19, 2017*
 
 ## Introduction
