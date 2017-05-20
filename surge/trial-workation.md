@@ -40,7 +40,7 @@ The following criteria are used to evaluate the experience:
 Though the net cost of a workation is less than an unfunded vacation,
 there's still considerable cost. The benefits must outweigh the costs to
 make them feesable. Moreover, if work cannot be performed, then no amount
-of quality time make a working vacation feesable.
+of quality time makes a working vacation feesable.
 
 ## Things that went well
 
@@ -65,21 +65,25 @@ of quality time make a working vacation feesable.
    But we left late, spent too much time and money at Walmart, and did
    not arrive until early afternoon, forcing me to take an important call
    on the road and making me unprepared for an afternoon status meeting.
+
 1. Initially I was unable to test my code over the network. And given
    that I was working on a UI page, doing so was essential. At first, I
    was afraid that the connection speed was the problem. Neither the
-   hotel's Wifi, nor my Verizon hotspot would work. I even drove home
-   to finish the days tasks and stayed the night at our home, despairing
-   of vacationing with my family. However I found that the situation was
-   not much better at home. That only marginally made me feel better. I
-   did, however, return the next day, and found that the performance was
-   better in the Hotel's conference center than either in the hotel room
-   or at home! In fact, the generous hosts allowed me to return to work
-   there while we stayed at the cabin. In the end, the issue was latency,
-   not connection speed.
+   hotel's Wifi, nor my Verizon hotspot would work.
+
+   Eventually, I drove home to finish the days tasks and stayed the night
+   at our home, despairing of vacationing with my family. However I
+   found that the situation was not much better at home – which only
+   marginally made me feel better. I did, however, return the next day,
+   and found that the performance was better in the Hotel's conference
+   center than either in the hotel room or at home! In fact, the
+   generous hosts allowed me to return to work there while we stayed at
+   the cabin. In the end, the issue was latency, not connection speed.
+
 1. I was chagrined to find that my expensive and wonderful Bose noise
    cancelling headphones were useless on a conference call. I subsequently
    bought a wireless headset.
+
 1. The cabin had no desk and it was uncomfortable working at the kitchen
    table with the kitchen chairs over a long period of time. I determined
    to purchase a portable desk and office chair, if possible. Read the <a href="https://medium.com/@kenbrubaker/my-mobile-office-2a1c634d1089" target="_blank">blog post</a>
@@ -99,8 +103,10 @@ of quality time make a working vacation feesable.
 
    My aim has been to keep driving time to under eight hours per day and
    only work on the road on a well traveled interstate highway.
+
 1. It's critical to plan around scheduled meeting times: to make sure it
    occurs with adequate prep time and in quiet surroundings.
+
 1. Consider availability of business oriented venues such as shared
    office space or hotel conference centers to provide adequate internet
    connectivity.
