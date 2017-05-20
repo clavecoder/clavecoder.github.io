@@ -47,12 +47,15 @@ of quality time makes a working vacation feesable.
 1. Almost all of the purchased components performed admirably. The
    evaluation of these can be read in the <a href="https://medium.com/@kenbrubaker/my-mobile-office-2a1c634d1089" target="_blank">My Mobile Office</a>
    blog post.
+
 1. The Airbnb cabin rental was spacious and delightful and the process
    was smooth.
+
 1. We stayed at a hotel the first two nights as the cabin was not available
    given how soon we rented to the date. The hotel experience went well
    and turned out to be a boon to my development work as I'll discuss later.
    The children especially enjoyed the indoor pool.
+
 1. In the end, we had an enjoyable time and quality work was also done.
 
 ## Things that did not go well
