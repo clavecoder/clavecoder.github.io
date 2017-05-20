@@ -15,14 +15,14 @@ On Friday, April 28th through Tuesday, May 2nd, our family made a trial
 “workation” trip to Helen, GA, a local vacation spot about an hour's
 drive from our home. Our purpose, besides getting a little relaxation,
 was to try out the concept of a working vacation which was enabled by my
-recent employment as a contractor with with Surge, LLC, an on-shore
-outsourcing company. With Surge, I work full time out of my home, which
-means that “home” can be anywhere I can have a fast, reliable internet
-connection and can work at a sustained high level.
+recent employment as a contractor with with Surge, LLC. Surge is an on-shore
+outsourcing company where I work full time out of my home. “Home”, then
+can be anywhere I can have a fast, reliable internet connection and can
+work at a sustained high level.
 
 To enable mobile development, I have purchased a number of components
 for a mobile office. These components are detailed in my **Medium** blog
-post [My Mobile Office][medium-kenbrubaker-mymobileoffice].
+post <a href="https://medium.com/@kenbrubaker/my-mobile-office-2a1c634d1089" target="_blank">My Mobile Office</a>.
 
 During the trip, I had a one-on-one meeting with Donovan, one the
 management staff at Surge. He asked me to write up a retrospective of my
@@ -40,7 +40,7 @@ The following criteria are used to evaluate the experience:
 Though the net cost of a workation is less than an unfunded vacation,
 there's still considerable cost. The benefits must outweigh the costs to
 make them feesable. Moreover, if work cannot be performed, then no amount
-of quality time make a workation feesable.
+of quality time make a working vacation feesable.
 
 ## Things that went well
 
@@ -60,7 +60,8 @@ of quality time make a workation feesable.
    settled at the destination during normal work hours. This was partly
    because of the need to interact and concentrate, but partly also that
    I was unsure of the quality of the internet as we approached the foothills.
-   But we left late, spent too much time and money at WalMart, and did
+
+   But we left late, spent too much time and money at Walmart, and did
    not arrive until early afternoon, forcing me to take an important call
    on the road and making me unprepared for an afternoon status meeting.
 1. Initially I was unable to test my code over the network. And given
@@ -71,7 +72,7 @@ of quality time make a workation feesable.
    of vacationing with my family. However I found that the situation was
    not much better at home. That only marginally made me feel better. I
    did, however, return the next day, and found that the performance was
-   better in the Hotel's conference center then either in the hotel room
+   better in the Hotel's conference center than either in the hotel room
    or at home! In fact, the generous hosts allowed me to return to work
    there while we stayed at the cabin. In the end, the issue was latency,
    not connection speed.
@@ -91,10 +92,12 @@ of quality time make a workation feesable.
 1. It's critical to plan and execute travel time to maximal effect.
    Certainly our performance as a travelling family will improve with
    experience. But we also purchased equally sized luggage that we can
-   quickly load and unload. We also purchased a several sturdy insulated
-   bags from Sam's Club to keep our food cold on the go. My aim has been
-   to keep driving time to under eight hours per day and only work on
-   the road on a well traveled interstate highway.
+   quickly load and unload. To minimize the need to shop at the last minute,
+   we also purchased a several sturdy insulated bags from Sam's Club to
+   keep our food cold on the go.
+
+   My aim has been to keep driving time to under eight hours per day and
+   only work on the road on a well traveled interstate highway.
 1. It's critical to plan around scheduled meeting times: to make sure it
    occurs with adequate prep time and in quiet surroundings.
 1. Consider availability of business oriented venues such as shared
@@ -109,5 +112,3 @@ annual family reunion over the Memorial Day weekend. We'll be taking
 along some added mobile office components, but we will also be taking
 along these lessons learned for a, hopefully, even more profitable
 workation experience.
-
-[medium-kenbrubaker-mymobileoffice]: https://medium.com/@kenbrubaker/my-mobile-office-2a1c634d1089
