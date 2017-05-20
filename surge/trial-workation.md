@@ -45,7 +45,8 @@ of quality time make a working vacation feesable.
 ## Things that went well
 
 1. Almost all of the purchased components performed admirably. The
-   evaluation of these can be read in the **My Mobile Office** blog post.
+   evaluation of these can be read in the <a href="https://medium.com/@kenbrubaker/my-mobile-office-2a1c634d1089" target="_blank">My Mobile Office</a>
+   blog post.
 1. The Airbnb cabin rental was spacious and delightful and the process
    was smooth.
 1. We stayed at a hotel the first two nights as the cabin was not available
@@ -81,8 +82,8 @@ of quality time make a working vacation feesable.
    bought a wireless headset.
 1. The cabin had no desk and it was uncomfortable working at the kitchen
    table with the kitchen chairs over a long period of time. I determined
-   to purchase a portable desk and office chair, if possible. Read the blog
-   post to see the result of that decision. I also felt I needed a lamp
+   to purchase a portable desk and office chair, if possible. Read the <a href="https://medium.com/@kenbrubaker/my-mobile-office-2a1c634d1089" target="_blank">blog post</a>
+   to see the result of that decision. I also felt I needed a lamp
    to work during evening hours, something I'd want to do frequently to
    maximize family time. Though it took some time, I was able to find a
    suitable lamp, which you can also read about in the blog post.
