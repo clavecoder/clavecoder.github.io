@@ -27,11 +27,11 @@ RBAC to meet our needs. However we see to things lacking
 ## Questions
 
 1. Is there a facility for Fine-Grained RBAC permissions that integrates
-   with Azure AD B2B and Azure Connect
-1. Is there a way to have App Roles that to not get exposed to Azure AD
-   B2B tenants
+   with Azure AD B2B and Azure Connect?
+1. Is there a way to have App Roles that do not get exposed to Azure AD
+   B2B tenants?
 1. If there is not a way to have host-only App Roles, can both App Roles
-   Azure security groups be used as roles together?
+   and Azure security groups be used as roles together?
 1. Do you have any examples that use Web API 2 vs. .NET Core?
 
 ## Appendix: Supporting Links
