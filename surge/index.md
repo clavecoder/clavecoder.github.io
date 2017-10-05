@@ -1,5 +1,5 @@
 <!-- markdownlint-disable first-line-h1 -->
-<!-- cSpell:ignore workation permissioning -->
+<!-- cSpell:ignore workation permissioning msft -->
 
 *[Home](..)*
 
@@ -12,5 +12,6 @@
 ### ING
 
 - [Azure AD Permissioning Questions](./clients/ing/aad-design.md)
+- [Azure AD Questions for Microsoft](./clients/ing/aad-msft-ticket.md)
 
 [surge]: http://surgeforward.com
