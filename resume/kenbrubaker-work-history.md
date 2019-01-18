@@ -1,4 +1,5 @@
 <!-- markdownlint-disable first-line-h1 -->
+<!-- cSpell:ignore orches performant silverlight mvvm ODATA backend -->
 
 *[Back to resume](./kenbrubaker.md)*
 
@@ -9,11 +10,30 @@
 > **Kenneth Brubaker**<br>
 > Enterprise Application Architect
 
+## Surge IT Services (Software Consultancy)
+
+> Remote Contractor<br>
+> <https://www.surgeforward.com/><br>
+> March 2017 - Present<br>
+> Senior Developer (Contractor)
+
+Provided expert development services on many technologies for clients in
+several fields including Healthcare and Investment Management.
+
+- __Client 2018-2019:__ Helped a hedge fund migrate from a proprietary
+  trading system to OrchesTrade, moving their business processes into
+  the system.
+- __Client 2018:__ Designed an Angular 4 application architecture for a
+  construction measurement technology company's flagship product.
+  Provided team management as part of the role.
+- __Client 2017-2018:__ Helped a healthcare treatment placement non-profit
+  migrate their proprietary clinical software to a new software platform.
+
 ## eLead (Automotive CRM)
 
 > Destin, FL<br>
-> http://www.elead-crm.com/<br>
-> March 2015 – Present
+> <http://www.elead-crm.com/><br>
+> March 2015 – February 2017<br>
 > Enterprise Architect (Permanent)
 
 Lead initiative to rearchitect large SaaS environment to a microservice
@@ -31,7 +51,7 @@ system. Highlights include:
 ## AirWatch (Enterprise Mobility Management)
 
 > Atlanta, GA<br>
-> http://www.air-watch.com/<br>
+> <http://www.air-watch.com/><br>
 > November 2014 – March 2015<br>
 > C# Architect (Permanent)
 
@@ -51,7 +71,7 @@ multi-tenant SaaS environment. Highlights include:
 ## Voya Investment Management (Financial Services)
 
 > Atlanta, GA<br>
-> http://investments.voya.com<br>
+> <http://investments.voya.com><br>
 > May 2009 – November 2014<br>
 > Application Architect (Permanent)
 
@@ -63,15 +83,57 @@ processes. Provide Software Configuration Management (SCM) guidance and
 administration using Team Foundation Server (TFS). Provide development
 machine template and administration.
 
-Instrumental in maturing fragmented and obsolete development practice for 50+ person development organization as lead in distributed team of three application architects. Demonstrated patient determination in navigating multiple sites, teams, technologies and ambitions. Highlights include:
+Instrumental in maturing fragmented and obsolete development practice for
+50+ person development organization as lead in distributed team of three
+application architects. Demonstrated patient determination in navigating
+multiple sites, teams, technologies and ambitions. Highlights include:
 
-- Lead architect on team that provided architecture utilizing ASP.NET WebAPI, ASP.NET MVC 5, and TypeScript. Utilized CSS3 styling and RBAC libraries and Enterprise Library integration of previous architectures. Mentored technical leads across the application development teams in the Scrum process as part of effort.
-- Lead architect on team of three to prototype an application architecture based on NodeJS, TypeScript, AngularJS, ExpressJS, BreezeJS, EdgeJS, and Enterprise Library. Architecture provides enterprise-compliant CSS3 styling themes that integrated with Bootstrap and Kendo using SCSS (SASS) and LESS. Built using NodeJS tooling such as Git, Npm, Bower, and Grunt. Key features were enterprise styling, ODATA support, and seamless and performant integration of SQL Server backend with a mobile ready front end and middeware. Source: https://github.com/latticework/proto-ng-breeze-edge
-- Lead architect on team of three to create, document and mentor a strategic application architecture based on XAML (Silverlight), WCF RIA Services, ASP.NET, and Enterprise Library. Architecture provides standard libraries for asynchronous application initialization, enterprise-standard Fine-grained Role-Based Application Security (RBAC), core application services, MVVM-based UI view presentation, Blend-integrated XAML-styling, and automated build and deployment services. The architecture was use for development and successful production deployment of a client services support application.
-- Under extremely tight deadlines, provided solution architecture for the ground-up development of a large strategic custom trading application. Created business requirements templates for over 1000 pages of requirements. Piloted use of SCRUM Application Lifecycle Management (ALM) practices and customized TFS process. Developed testable MVP UI-presentation model for ASP.NET WinForms application model. Piloted use of Visual Studio Database Projects and use of Dependency Injection (DI) and the Repository pattern. Application was successfully brought into production.
-- Greatly improved and standardized development practice by creating suite of application development document templates, instituting standardized TFS team project design and administration, overseeing conversion of all VSS repositories to TFS, and spearheading creation of a standardized virtual developer workstation VMWare image with managed tooling and licensing. All of these initiatives are in production and functioning smoothly.
-- Provided strategic assessments of Software Configuration Management Strategy, of Custom Application Development Strategy, and for Strategies to Mitigate Use of Business Owned Access Databases.
-- Developed strategy for Production Business Owned servers in the Data Center. Include technical guidelines, regulatory compliant processes, and governance model. Strategy was adopted company-wide, implemented, and is now in production.
+- Lead architect on team that provided architecture utilizing ASP.NET
+  WebAPI, ASP.NET MVC 5, and TypeScript. Utilized CSS3 styling and RBAC
+  libraries and Enterprise Library integration of previous architectures.
+  Mentored technical leads across the application development teams in
+  the Scrum process as part of effort.
+- Lead architect on team of three to prototype an application
+  architecture based on NodeJS, TypeScript, AngularJS, ExpressJS,
+  BreezeJS, EdgeJS, and Enterprise Library. Architecture provides
+  enterprise-compliant CSS3 styling themes that integrated with
+  Bootstrap and Kendo using SCSS (SASS) and LESS. Built using NodeJS
+  tooling such as Git, Npm, Bower, and Grunt. Key features were
+  enterprise styling, ODATA support, and seamless and performant
+  integration of SQL Server backend with a mobile ready front end and
+  middleware. Source: <https://github.com/latticework/proto-ng-breeze-edge>
+- Lead architect on team of three to create, document and mentor a
+  strategic application architecture based on XAML (Silverlight), WCF
+  RIA Services, ASP.NET, and Enterprise Library. Architecture provides
+  standard libraries for asynchronous application initialization,
+  enterprise-standard Fine-grained Role-Based Application Security (RBAC),
+  core application services, MVVM-based UI view presentation,
+  Blend-integrated XAML-styling, and automated build and deployment
+  services. The architecture was use for development and successful
+  production deployment of a client services support application.
+- Under extremely tight deadlines, provided solution architecture for
+  the ground-up development of a large strategic custom trading
+  application. Created business requirements templates for over 1000
+  pages of requirements. Piloted use of SCRUM Application Lifecycle
+  Management (ALM) practices and customized TFS process. Developed
+  testable MVP UI-presentation model for ASP.NET WinForms application
+  model. Piloted use of Visual Studio Database Projects and use of
+  Dependency Injection (DI) and the Repository pattern. Application was
+  successfully brought into production.
+- Greatly improved and standardized development practice by creating
+  suite of application development document templates, instituting
+  standardized TFS team project design and administration, overseeing
+  conversion of all VSS repositories to TFS, and spearheading creation
+  of a standardized virtual developer workstation VMWare image with
+  managed tooling and licensing. All of these initiatives are in
+  production and functioning smoothly.
+- Provided strategic assessments of Software Configuration Management
+  Strategy, of Custom Application Development Strategy, and for
+  Strategies to Mitigate Use of Business Owned Access Databases.
+- Developed strategy for Production Business Owned servers in the Data
+  Center. Include technical guidelines, regulatory compliant processes,
+  and governance model. Strategy was adopted company-wide, implemented,
+  and is now in production.
 
 ## Axis Capital (Insurance)
 

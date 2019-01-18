@@ -1,4 +1,5 @@
 <!-- markdownlint-disable first-line-h1 -->
+<!-- cSpell:ignore orches -->
 
 *[Home](..)*
 
@@ -13,7 +14,7 @@ I am an incessantly driven technical leader of the craft of software
 development, having executed at all levels of the trade. I have provided
 technical management at several large companies and directed and
 participated in important software development efforts throughout my
-nearly 27 year career.
+nearly 29 year career.
 
 <!-- markdownlint-disable line-length -->
 
@@ -69,15 +70,25 @@ nearly 27 year career.
 - Test Driven Development practices
 - .NET/Windows Architecture
 - Microservice Architecture
-- Modern Development Technologies including Git, GitHub, Chef, Vagrant,
-  Linux/Ubuntu, Redis, Docker, JavaScript, EcmaScript Standards, Node
-  Development, NPM packages, Go language, ExpressJS websites, TypeScript,
-  Angular, Babel, and WebPack
+- Modern Development Technologies including Angular, TypeScript, Git,
+  GitHub, Redis, Docker, JavaScript, EcmaScript Standards, Node
+  Development, NPM packages, Go language, ExpressJS websites,
+  Babel, and WebPack
 
 ## Selected Work History
 
 <dl>
-  <dt>eLead: Contract/FTE, March 2015 – Present (Automotive CRM)</dt>
+  <dt>Surge: Contract, March 2017 – Present (Software Consultancy)</dt>
+  <dd><b>Senior Contractor</b>
+      <ul>
+        <li>Helped a hedge fund migrate from a proprietary
+            trading system to OrchesTrade, moving their business processes
+            into the system.</li>
+        <li>Designed an Angular 4 application architecture for a
+            construction measurement technology company's flagship product.</li>
+      </ul>
+  </dd>
+  <dt>eLead: Contract/FTE, March 2015 – February 2017 (Automotive CRM)</dt>
   <dd><b>Enterprise Architect</b>
       <ul>
         <li>Developed strategy, principles, and reference architecture
