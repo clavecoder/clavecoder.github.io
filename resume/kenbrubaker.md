@@ -14,7 +14,7 @@ I am an incessantly driven technical leader of the craft of software
 development, having executed at all levels of the trade. I have provided
 technical management at several large companies and directed and
 participated in important software development efforts throughout my
-nearly 29 year career.
+nearly 30 year career.
 
 <!-- markdownlint-disable line-length -->
 
@@ -79,7 +79,7 @@ nearly 29 year career.
 
 <dl>
   <dt>Surge: Contract, March 2017 – Present (Software Consultancy)</dt>
-  <dd><b>Senior Contractor</b>
+  <dd><b>Senior Remote Contractor</b>
       <ul>
         <li>Helped a hedge fund migrate from a proprietary
             trading system to OrchesTrade, moving their business processes
