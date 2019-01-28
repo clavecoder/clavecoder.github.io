@@ -22,7 +22,7 @@ nearly 30 year career.
 <i>— <a href="./kenbrubaker.pdf" target="_blank">PDF</a> —
 <a href="./kenbrubaker.docx" target="_blank">Word</a> <!-- —
 <a href="./kenbrubaker.txt" target="_blank">TXT</a> --> —
-<a href="https://github.com/clavecoder/clavecoder.github.io/raw/master/resume/KENBRUBAKER.md" target="_blank">Markdown</a> —</i>
+<a href="https://raw.githubusercontent.com/clavecoder/clavecoder.github.io/master/resume/kenbrubaker.md" target="_blank">Markdown</a> —</i>
 </p>
 
 <p align="center"><i><a href="./kenbrubaker-work-history.html">
