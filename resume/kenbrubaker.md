@@ -14,7 +14,7 @@ I am an incessantly driven technical leader of the craft of software
 development, having executed at all levels of the trade. I have provided
 technical management at several large companies and directed and
 participated in important software development efforts throughout my
-nearly 30 year career.
+over 30 year career.
 
 <!-- markdownlint-disable line-length -->
 
@@ -32,6 +32,12 @@ nearly 30 year career.
 
 ## Experience
 
+- Hands-on architect at one of the largest funds managers, having
+  designed and developed thier cloud and microservices-based client
+  data services platform. I provide technical management for a service
+  development platform used by several feature teams currently
+  developing over 13 microservices. I guide the development of sofware,
+  release management, and support
 - Implemented and deployed service architecture for leading Automotive
   CRM SaaS provider based on microservice principles I developed in
   conjunction with the technical leadership team and reference
@@ -66,19 +72,26 @@ nearly 30 year career.
 - Full stack application architectures
 - Continuous Integration/Continuous Delivery
 - Software Development Lifecycle
-- Agile Development practices
+- Agile Development practices including SAFe
 - Test Driven Development practices
+- Inner-source Development practices
 - .NET/Windows Architecture
 - Microservice Architecture
-- Modern Development Technologies including Angular, TypeScript, Git,
-  GitHub, Redis, Docker, JavaScript, EcmaScript Standards, Node
-  Development, NPM packages, Go language, ExpressJS websites,
-  Babel, and WebPack
+- Modern Development Technologies including AWS, Splunk, Kubernetes,
+  AVRO, Protobuf, Angular, TypeScript, Git, GitHub, Redis, Docker, JavaScript,
+  EcmaScript Standards, Node Development, NPM packages, Go language,
+  ExpressJS websites, Babel, and WebPack
 
 ## Selected Work History
 
 <dl>
-  <dt>Surge: Contract, March 2017 – Present (Software Consultancy)</dt>
+  <dt>Capital Group: Contract, February 2019 - Present</dt>
+  <dd><b>Hands-on Architect</b>
+    <ul>
+      <li>Migrated large (100x APIs) .NET service to an enterprise service supporting 
+    </ul>
+  </dd>
+  <dt>Surge: Contract, March 2017 – January 2019 (Software Consultancy)</dt>
   <dd><b>Senior Remote Contractor</b>
       <ul>
         <li>Helped a hedge fund migrate from a proprietary
