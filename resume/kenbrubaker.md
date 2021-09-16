@@ -102,16 +102,6 @@ over 30 year career.
           contributors and a support model for 24x7 operational support.</li>
     </ul>
   </dd>
-  <dt>Surge: Contract, March 2017 – January 2019 (Software Consultancy)</dt>
-  <dd><b>Senior Remote Contractor</b>
-      <ul>
-        <li>Helped a hedge fund migrate from a proprietary
-            trading system to OrchesTrade, moving their business processes
-            into the system.</li>
-        <li>Designed an Angular 4 application architecture for a
-            construction measurement technology company's flagship product.</li>
-      </ul>
-  </dd>
   <dt>eLead: Contract/FTE, March 2015 – February 2017 (Automotive CRM)</dt>
   <dd><b>Enterprise Architect</b>
       <ul>
@@ -149,14 +139,6 @@ over 30 year career.
             of my employment</li>
         <li>Developed Software Development Lifecycle (SDLC) in addition to
             the software stack for a trading system</li>
-      </ul></dd>
-  <dt>Kurt Salmon Associates: Contract, August 2007 – September 2008
-      (Management Consulting)</dt>
-  <dd><b>Application Designer</b>
-      <ul>
-        <li>Provided analysis, design, and development of calculation
-            engine for the rewrite of a performance management system including
-            an Active/Active high availability cluster</li>
       </ul></dd>
   <dt>Cox Enterprises: Contract, February 2006 – July 2007 (Media)</dt>
   <dd><b>Enterprise Architect</b>
