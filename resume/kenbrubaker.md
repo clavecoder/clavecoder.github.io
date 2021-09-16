@@ -14,7 +14,7 @@ I am an incessantly driven technical leader of the craft of software
 development, having executed at all levels of the trade. I have provided
 technical management at several large companies and directed and
 participated in important software development efforts throughout my
-nearly 30 year career.
+over 30 year career.
 
 <!-- markdownlint-disable line-length -->
 
@@ -32,6 +32,13 @@ nearly 30 year career.
 
 ## Experience
 
+- Hands-on architect at one of the largest funds managers, having
+  designed and developed their cloud and microservices-based client
+  data services platform. I provide technical management for a service
+  development platform used by several feature teams currently
+  developing over 13 microservices. I guide the development of
+  software frameworks, release management, and developer and operational
+  support.
 - Implemented and deployed service architecture for leading Automotive
   CRM SaaS provider based on microservice principles I developed in
   conjunction with the technical leadership team and reference
@@ -66,19 +73,36 @@ nearly 30 year career.
 - Full stack application architectures
 - Continuous Integration/Continuous Delivery
 - Software Development Lifecycle
-- Agile Development practices
+- Agile Development practices including SAFe
 - Test Driven Development practices
+- Inner-source Development practices
 - .NET/Windows Architecture
 - Microservice Architecture
-- Modern Development Technologies including Angular, TypeScript, Git,
-  GitHub, Redis, Docker, JavaScript, EcmaScript Standards, Node
-  Development, NPM packages, Go language, ExpressJS websites,
-  Babel, and WebPack
+- Modern Development Technologies including AWS, Splunk, Kubernetes,
+  AVRO, Protobuf, Angular, TypeScript, Git, GitHub, Redis, Docker, JavaScript,
+  EcmaScript Standards, Node Development, NPM packages, Go language,
+  ExpressJS websites, Babel, and WebPack
 
 ## Selected Work History
 
 <dl>
-  <dt>Surge: Contract, March 2017 – Present (Software Consultancy)</dt>
+  <dt>Capital Group: Contract, February 2019 - Present (Financial Services)</dt>
+  <dd><b>Hands-on Architect</b>
+    <ul>
+      <li>Developed a greenfield AWS-cloud and OpenShift (Kubernetes)
+          development platform for their new enterprise client data
+          services provider that employs several API development teams
+          and over a dozen microservices. I not only designed and lead
+          the team that developed the application architecture, but also
+          design and manage their continuous delivery release model and
+          24x7 operational support model.</li>
+      <li>Migrated large (>100 APIs) .NET service to an enterprise
+          service supporting several enterprise consumers. I designed an
+          inner-source development model that supports dozens of
+          contributors and a support model for 24x7 operational support.</li>
+    </ul>
+  </dd>
+  <dt>Surge: Contract, March 2017 – January 2019 (Software Consultancy)</dt>
   <dd><b>Senior Remote Contractor</b>
       <ul>
         <li>Helped a hedge fund migrate from a proprietary
@@ -194,10 +218,10 @@ nearly 30 year career.
 ## Certifications
 
 <dl>
+  <dt>SAFe 5 Practitioner (SP)</dt>
+  <dd>Scaled Agile<br>
+      March 2020 - March 2021</dd>
   <dt>Certified ScrumMaster (CSM)</dt>
   <dd>Scrum Alliance<br>
       March 2013 - March 2015</dd>
 </dl>
-
-
-

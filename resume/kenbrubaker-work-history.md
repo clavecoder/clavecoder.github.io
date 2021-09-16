@@ -10,11 +10,66 @@
 > **Kenneth Brubaker**<br>
 > Enterprise Application Architect
 
+## Kforce (Software Consultancy)
+
+> San Antonio, TX<br>
+> <https://www.kforce.com/><br>
+> February 2019 - Present<br>
+> Hands-on Architect (Contractor)
+
+- __Capital Group: 2020-Present:__  Designed and lead team of platform
+  developers that provide an AWS and OpenShift (Kubernetes)
+  microservices development and delivery platform. Not only developed
+  the application architecture, but also the delivery and 24x7 support
+  model for the company's new Enterprise Client Data Services. This is
+  a very large and strategic effort employing dozens of development
+  staff and supporting enterprise critical workflows.
+
+  System was part of a pilot to first use AWS-native services and GitHub
+  Enterprise VCS within the enterprise. There are many technologies and
+  practices that I employed as part of the design, including:
+
+  - Terraform Infrastructure as Code (IaC) model that supports multiple
+    concurrent software systems across several AWS accounts.
+  - Application monitoring model that aggregates microservices into
+    a handful manageable services.
+  - OpenShift (Kubernetes) runtime environment and Docker development
+    environment.
+  - Continuous Integration using AWS CodeBuild
+  - Enterprise log aggregation and monitoring system using AWS
+    CloudWatch and Splunk Dashboards
+  - The application architecture employs several unique technologies
+    and techniques that I've evolved over the years such as
+    - Enterprise registry of semantic application messages (errors, etc)
+      that integrates with a semantic-rich structured logging
+      architecture.
+    - CLI and MSBuild integrated development tools.
+    - Transport and language agnostic messaging development system that
+      supports SQS, Kafka, etc. asynchronous messaging models in
+      addition to HTTP. They system utilizes and integrates AVRO and
+      Open API (OAS) for a complete API Discovery and Documentation
+      model.
+    - Developed an agile, trunk-based development and delivery model
+      that supports multiple teams and many microservices.
+  - Develop and manage a Continuous Deliver Release Management model and
+    24x7 developer and operational support model.
+
+- __Capital Group: 2019-2020:__ Migrated large (>100 APIs) .NET service
+  to an Enterprise service that supported inner-source contributions
+  by dozens of developers.
+
+  Tasks included complete refactoring and rationalization of very large
+  .NET code base developed by dozens of developers over 4 years to
+  support a structured development model. Lead team of up to 10
+  developers that provided software development, testing and operational
+  support. Developed feature developer documentation, and the
+  developer and 24x7 operational support model.
+
 ## Surge IT Services (Software Consultancy)
 
 > Remote Contractor<br>
 > <https://www.surgeforward.com/><br>
-> March 2017 - Present<br>
+> March 2017 - January 2019<br>
 > Senior Developer (Contractor)
 
 Provided expert development services on many technologies for clients in
